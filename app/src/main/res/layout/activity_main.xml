@@ -15,7 +15,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/name"
-        android:textAlignment="center" />
+        android:textAlignment="center"
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/nickname_edit"
